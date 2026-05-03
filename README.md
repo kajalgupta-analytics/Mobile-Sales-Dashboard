@@ -16,7 +16,7 @@ Power BI
 Excel (Data Source)
 Data Visualization
 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1207" height="685" alt="image" src="https://github.com/user-attachments/assets/5fa758ab-8547-41fb-9413-ba6e71d19394" />
 
 📊 Insights
 Identified top-performing cities and brands
